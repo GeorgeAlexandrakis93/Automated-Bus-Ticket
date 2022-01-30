@@ -3,7 +3,7 @@
 Thanks for your purchase.<br>
 Here is the receipt of your purchase:<br>
 ******************************************************
-Payment method: CASH<br><br>
+Payment method: CASH<br>
 Total tickets bought: 4<br>
 Fair (per ticket): 1.40 euro<br>
 Discount: 10%<br>
